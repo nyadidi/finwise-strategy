@@ -2,7 +2,7 @@
 
 > _(one-line growth thesis)_
 
-_Your name · Product Experimentation · date_
+Noa Yadidi · Product Experimentation · December 2026
 
 This repo is my final project for the **Product Experimentation Certification**, a growth strategy for FinWise. One folder per module; this README is **The Story** that ties them together, and the **Final Project Deliverables Builder** pulls your module files into your final presentation.
 
